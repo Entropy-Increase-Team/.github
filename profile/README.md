@@ -51,10 +51,18 @@
 | Astrbot | [astrbot_plugin_endfield](https://github.com/Entropy-Increase-Team/astrbot_plugin_endfield) |
 | NoneBot2 | [nonebot-plugin-endfield](https://github.com/Entropy-Increase-Team/nonebot-plugin-endfield) |
 
-### 桌面与多媒体
+#### 桌面与多媒体
 - **[MaaEnd-Client](https://github.com/Entropy-Increase-Team/MaaEnd-Client)** — 用于与协议终端对接的远程控制的maaend客户端，由熵增项目组维护，与maaend开发组无关
 - **[endfield-wallpaper](https://github.com/Entropy-Increase-Team/endfield-wallpaper)** — Wallpaper Engine 终末地动态壁纸，实时数据与视差交互。
 
+### 洛克王国：世界 · NRC（ROCOM）
+
+> 云崽插件的洛克王国插件基于[wegame-plugin](https://github.com/Entropy-Increase-Team/WeGame-plugin)，洛克王国功能需要安装洛克王国组件
+
+| 方向 | 仓库 |
+|:---|:---|
+| Yunzai | [Rocom-Module](https://github.com/Entropy-Increase-Team/WeGame-GameModules/tree/rocom) |
+| Astrbot | [astrbot_plugin_rocom](https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom) |
 ---
 
 ## 开放平台
@@ -63,7 +71,7 @@
 
 ### 开放平台统一入口
 
-开发中
+[落地页-开发中](https://open.shallow.ink)
 
 ### 各平台入口
 
@@ -84,6 +92,7 @@
 |:---|:---|
 | 三角洲 | [932459332](https://qm.qq.com/q/CrYiAQxJPW) |
 | 终末地 | [160759479](https://qm.qq.com/q/zZXruW6V4Q) |
+| 洛克王国 | [1097809141](https://qm.qq.com/q/VDBFadHGwA) |
 
 组织内各仓库功能与命令以 **各自 README** 为准；反馈问题请优先到**对应仓库**的 Issues 页面提交。
 
