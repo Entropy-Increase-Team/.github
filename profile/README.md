@@ -63,6 +63,7 @@
 |:---|:---|
 | Yunzai | [Rocom-Module](https://github.com/Entropy-Increase-Team/WeGame-GameModules/tree/rocom) |
 | Astrbot | [astrbot_plugin_rocom](https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom) |
+| Gscore | [RocomUID](https://github.com/Entropy-Increase-Team/RocomUID) |
 ---
 
 ## 开放平台
