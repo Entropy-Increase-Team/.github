@@ -66,6 +66,15 @@
 | Gscore | [RocomUID](https://github.com/Entropy-Increase-Team/RocomUID) |
 ---
 
+### 塔吉多 · Tajiduo
+
+>社区插件，包含社区APP功能+幻塔+异环等查询功能
+
+| 方向 | 仓库 |
+|:---|:---|
+| Yunzai | [TaJiDuo-plugin](https://github.com/Entropy-Increase-Team/TaJiDuo-plugin) |
+---
+
 ## 开放平台
 
 绝大多数插件依赖统一的 **后端** 完成授权、密钥与接口调用：
@@ -94,6 +103,7 @@
 | 三角洲 | [932459332](https://qm.qq.com/q/CrYiAQxJPW) |
 | 终末地 | [160759479](https://qm.qq.com/q/zZXruW6V4Q) |
 | 洛克王国 | [1097809141](https://qm.qq.com/q/VDBFadHGwA) |
+| 塔吉多(幻塔+异环) | [1090940860](https://qm.qq.com/q/Vpkj3SFIgS) |
 
 组织内各仓库功能与命令以 **各自 README** 为准；反馈问题请优先到**对应仓库**的 Issues 页面提交。
 
