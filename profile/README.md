@@ -64,6 +64,8 @@
 | Yunzai | [Rocom-Module](https://github.com/Entropy-Increase-Team/WeGame-GameModules/tree/rocom) |
 | Astrbot | [astrbot_plugin_rocom](https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom) |
 | Gscore | [RocomUID](https://github.com/Entropy-Increase-Team/RocomUID) |
+| Koishi | [koishi-plugin-rocom](https://github.com/Entropy-Increase-Team/koishi-plugin-rocom) |
+| alemonjs | [alemonjs-roco](https://github.com/Entropy-Increase-Team/alemonjs-plugin-rocom) |
 ---
 
 ### 塔吉多 · Tajiduo
@@ -73,6 +75,7 @@
 | 方向 | 仓库 |
 |:---|:---|
 | Yunzai | [TaJiDuo-plugin](https://github.com/Entropy-Increase-Team/TaJiDuo-plugin) |
+| Astrbot | [astrbot_plugin_TaJiDuo](https://github.com/Entropy-Increase-Team/astrbot_plugin_TaJiDuo) |
 ---
 
 ## 开放平台
