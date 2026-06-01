@@ -65,7 +65,7 @@
 | Astrbot | [astrbot_plugin_rocom](https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom) |
 | Gscore | [RocomUID](https://github.com/Entropy-Increase-Team/RocomUID) |
 | Koishi | [koishi-plugin-rocom](https://github.com/Entropy-Increase-Team/koishi-plugin-rocom) |
-| alemonjs | [alemonjs-roco](https://github.com/Entropy-Increase-Team/alemonjs-plugin-rocom) |
+| alemonjs | [alemonjs-roco](https://github.com/Entropy-Increase-Team/alemonjs-roco) |
 ---
 
 ### 塔吉多 · Tajiduo
