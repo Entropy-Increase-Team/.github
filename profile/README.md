@@ -92,7 +92,7 @@
 |:---|:---|:---|
 | 三角洲行动 | [df.shallow.ink](https://df.shallow.ink) | 注册登录、创建 API Key、订阅与个人信息 |
 | 明日方舟：终末地 | [end.shallow.ink](https://end.shallow.ink) | 官网授权与开发者 API 密钥 |
-| Wegame | 开发中 | 用于wegame系列插件的调用 |
+| 洛克王国 | [洛克魔法书](https://rocom.shallow.ink) | 用于洛克王国API的调用以及工具使用 |
 
 > [!TIP]
 > 各仓库 README 内会写明必填配置项（如 `api_key` / `clientID`）；使用前请先阅读对应插件的安装与配置章节。
